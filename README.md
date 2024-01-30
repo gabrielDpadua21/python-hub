@@ -1,4 +1,4 @@
 # Python Hub
 
-My pytho hub repository
+My Python code hub repository
 
