@@ -1,0 +1,5 @@
+hello, [cat]
+
+do you want a cookie?
+
+bye
