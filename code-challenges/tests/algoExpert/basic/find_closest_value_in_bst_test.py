@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, './src/algoExpert')
+sys.path.insert(0, '../../../src/algoExpert')
 import unittest
 
 from basic.find_closest_value_in_bst import FindClosestValueInBst
