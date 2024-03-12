@@ -2,10 +2,10 @@
 
 class PalindromeNumber:
 
-	def solution01(self, number):
+	def solution01(self, number: int) -> bool:
 		return str(number) == "".join(reversed(str(number)))
 
-	def solution02(self, number):
+	def solution02(self, number: int) -> bool:
 		if number < 0: return False
 
 		reversed_num = 0
