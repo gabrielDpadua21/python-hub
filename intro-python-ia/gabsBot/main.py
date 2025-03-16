@@ -6,7 +6,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_community.document_loaders import YoutubeLoader
 
-os.environ['GROQ_API_KEY'] = "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"
+os.environ['GROQ_API_KEY'] = ""
 CHAT = ChatGroq(model='llama-3.3-70b-versatile')
 
 def bot_youtube_transcript(messages):
